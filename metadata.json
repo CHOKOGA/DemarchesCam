@@ -1,0 +1,6 @@
+{
+  "name": "DémarchesCam",
+  "description": "Guide citoyen et suivi des démarches administratives au Cameroun (CNI, acte, passeport, etc.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
